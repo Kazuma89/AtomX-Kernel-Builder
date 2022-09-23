@@ -36,13 +36,13 @@
 
 ############################## Setup AnyKernel #############################
 
-	gut Atom-X-Devs/AnyKernel3 main AnyKernel3
+	gut KazuDante89/AnyKernel3/tree/codelinaro main AnyKernel3
 
 ############################################################################
 
 ############################## Setup Kernel ################################
 
-	gut Atom-X-Devs/android_kernel_xiaomi_sm7325 codelinaro Kernel
+	gut Kazuma89/xiaomi_lisa_kernel codelinaro Kernel
 
 ############################################################################
 
